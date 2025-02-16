@@ -1,3 +1,6 @@
+# Stratified Random Sampleinator 
+
+
               ,---------------------------,
               |  /---------------------\  |
               | |     Stratified        | |
